@@ -1,7 +1,7 @@
-name: PAWS BUDDY
+name: MNL Designs
 markdown: redcarpet
 port: 4000
 destiation: site
-exclude: ["CNAME", "README.me"]
+source: src
 excerpt_separator: <!--more-->
 permalink: /blog/:title
