@@ -1,0 +1,16 @@
+{
+  "name": "mnldesigns.co.uk",
+  "version": "0.0.1",
+  "description": "Static site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Hawksworth",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "gulp": "~3.6.2",
+    "gulp-shell": "~0.2.5",
+    "gulp-connect": "~2.0.5"
+  }
+}
